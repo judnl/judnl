@@ -12,6 +12,8 @@ If you're looking for someone who's not just curious but also ready to contribut
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+🔧 Currently working on orgnazing and cleaning my past works so that I can present them to the GitHub community soon. Be patient, it's coming!
+
 <!--
 - 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -28,4 +30,4 @@ If you're looking for someone who's not just curious but also ready to contribut
 
 
 ----
-Last Edited on: 07/12/2023
+Last Edited on: 01/04/2024
