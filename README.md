@@ -4,11 +4,11 @@
 [<img src="https://img.shields.io/github/followers/judnl?label=follow&style=social" height="22" title="Follow me" />](https://github.com/judnl) 
 
 
-My name is **Juliette Danel** and I'm a student of **Master 2 Data Science** at Institut Polytechnique de Paris (**IP Paris**) in France.
+Hi! I'm **Juliette Danel**, a **Data Engineer** with a **Master 2** in **Data Science** from the **Institut Polytechnique de Paris** and an **Engineering Diploma** in **Software Engineering** from the **Institut Electronique de Paris**.
 
-As I approach the end of my academic journey, I'm seeking an exciting **end-of-study internship** in the **Data Science** field, starting in April 2024. Passionate about **Machine Learning** projects, I'm also interested in the complexities presented in **Data Engineering** and **MLOps** challenges.
+Currently, I work as a **Data Engineer** at the **FIFA Clearing House** in Paris. I'm passionate about **Machine Learning** and excited by the challenges of **Data Engineering** and **MLOps**.
 
-If you're looking for someone who's not just curious but also ready to contribute and learn on the go, let's connect! I'm thrilled about the possibilities in the world of data science and eager to explore how I can contribute to your team's success.
+If you're looking for someone who's both curious and ready to contribute, let's connect! I'm enthusiastic about the world of data science and eager to share and learn together.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
